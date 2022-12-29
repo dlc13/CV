@@ -26,7 +26,7 @@
 				<h2>Skills</h2>
 				<ul>
 					<li><b>Software Development :
-					Python, Java>
+					Java
 					<li><b>Frontend : HTML, CSS,
 					JavaScript </b></li>
 				</ul>
