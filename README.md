@@ -37,12 +37,6 @@
           <li>Spanish</li>
 					<li>English</li>
 				</ul>
-		</div>
-		<div class="right">
-			<div class="name">
-			</div>
-			<div class="title">
-				<p>Web Developer</p>
 			</div>
 			<div class="Summary">
 				<h2>Summary</h2>
