@@ -29,7 +29,6 @@
 					Python, Java>
 					<li><b>Frontend : HTML, CSS,
 					JavaScript </b></li>
-					<li><b>Backend : Node.js</b></li>
 				</ul>
 			</div>
 			<div class="Language">
@@ -48,7 +47,7 @@
 			<div class="Summary">
 				<h2>Summary</h2>
 				<p>Looking for a new challenge
-					to expand my learning knowledge and skills
+					to expand my knowledge and skills
 				</p>
 			</div>
 			<div class="Experience">
@@ -57,7 +56,6 @@
 				<p>December 2022</p>
 				<ul>
 					<li> Learning a new skill.</li>
-					<li>Designing project & planing</li>
 				</ul>
 			</div>
 			<div class="Education">
@@ -65,17 +63,15 @@
 				<table>
 					<tr>
 						<th>Institution </th>
-						<th>Passing year </th>
+						<th>Year </th>
 					</tr>
 					<tr>
 						<td>Ticmas</td>
 						<td>2022</td>
-						<td>100</td>
 					</tr>
 					<tr>
 						<td>Universidad Nacional de Córdoba</td>
 						<td>2022</td>
-						<td>100%</td>
 					</tr>
 				</table>
 			</div>
